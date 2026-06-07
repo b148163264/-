@@ -86,10 +86,16 @@
 
 - **離開**
 
----
-
-- **UML圖**
-（images/UML.png）
-
-
 ![遊戲畫面截圖](images/0.png)
+
+---
+- **UML圖**
+![UML圖](images/UML.png)
+
+
+
+
+
+
+
+
