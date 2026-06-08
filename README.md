@@ -32,11 +32,11 @@
 - Mac 也可以使用：clang++ -std=c++17 main.cpp Entity.cpp Organism.cpp Plant.cpp Animal.cpp Resource.cpp World.cpp -o ecosim
 ./ecosim
 - windows測試失敗可按以下步驟:
-1.確定路徑沒有中文名
-2.下載MSYS2，打開MSYS2 UCRT64輸入pacman -Syu，關掉重開輸入pacman -S mingw-w64-ucrt-x86_64-gcc
-3.環境變數path加入C:\msys64\ucrt64\bin
-4.開啟檔案後終端機輸入g++ -std=c++17 -finput-charset=UTF-8 -fexec-charset=BIG5 main.cpp Entity.cpp Organism.cpp Plant.cpp Animal.cpp Resource.cpp World.cpp -o ecosim.exe
-5.再輸入.\ecosim.exe
+- 1.確定路徑沒有中文名
+- 2.下載MSYS2，打開MSYS2 UCRT64輸入pacman -Syu，關掉重開輸入pacman -S mingw-w64-ucrt-x86_64-gcc
+- 3.環境變數path加入C:\msys64\ucrt64\bin
+- 4.開啟檔案後終端機輸入g++ -std=c++17 -finput-charset=UTF-8 -fexec-charset=BIG5 main.cpp Entity.cpp Organism.cpp Plant.cpp Animal.cpp Resource.cpp World.cpp -o ecosim.exe
+- 5.再輸入.\ecosim.exe
 
 ### 遊戲畫面截圖
 ---
